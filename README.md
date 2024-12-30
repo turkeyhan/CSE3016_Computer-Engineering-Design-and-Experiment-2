@@ -1,4 +1,4 @@
-# Conputer Engineering Desing and Experiment(CSE3016)
+# Computer Engineering Design and Experiment(CSE3016)
 
 ***
 
